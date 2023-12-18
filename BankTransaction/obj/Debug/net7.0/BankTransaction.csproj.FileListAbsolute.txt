@@ -1,0 +1,14 @@
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\obj\Debug\net7.0\BankTransaction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\obj\Debug\net7.0\BankTransaction.AssemblyInfoInputs.cache
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\obj\Debug\net7.0\BankTransaction.AssemblyInfo.cs
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\obj\Debug\net7.0\BankTransaction.csproj.CoreCompileInputs.cache
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\bin\Debug\net7.0\BankTransaction.exe
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\bin\Debug\net7.0\BankTransaction.deps.json
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\bin\Debug\net7.0\BankTransaction.runtimeconfig.json
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\bin\Debug\net7.0\BankTransaction.dll
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\bin\Debug\net7.0\BankTransaction.pdb
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\obj\Debug\net7.0\BankTransaction.dll
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\obj\Debug\net7.0\refint\BankTransaction.dll
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\obj\Debug\net7.0\BankTransaction.pdb
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\obj\Debug\net7.0\BankTransaction.genruntimeconfig.cache
+D:\Oops Examples\Examples\BankTransaction\BankTransaction\BankTransaction\obj\Debug\net7.0\ref\BankTransaction.dll
