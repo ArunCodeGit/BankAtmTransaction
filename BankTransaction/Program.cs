@@ -65,10 +65,3 @@ namespace Bankapps
         }
     }
 }
-
-enum Choice
-{
-    Deposit = 1,
-    Withdraw = 2,
-    Enquiry = 3
-}
